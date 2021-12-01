@@ -14,18 +14,22 @@ namespace boxing_unboxing
             BoxedData.Add(7);
             BoxedData.Add(28);
             BoxedData.Add (-1);
-            BoxedData.Add("true");
+            BoxedData.Add(true);
             BoxedData.Add ("chair");
 
 
             
             //C3 - Loop through list and print out each item in list
-            foreach (var entry in BoxedData) {
-                if (entry is int) {
-                    Console.WriteLine(entry);
-                }
-                if (entry is string) {
-                    Console.WriteLine(entry);
+            int sum = 0;
+            foreach (var entry in BoxedData) 
+            {
+                Console.WriteLine(entry);
+
+                if (entry is int) 
+                {
+                    Console.WriteLine("Integer Alert! Add to Sum!");
+                    sum += (int)entry;
+                    Console.WriteLine($"Current Sum = {sum}");
                 }
             }
         }
