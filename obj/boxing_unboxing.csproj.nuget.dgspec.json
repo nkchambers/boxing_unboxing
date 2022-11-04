@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nick8\\Desktop\\C#\\boxing_unboxing\\boxing_unboxing.csproj": {}
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\boxing_unboxing\\boxing_unboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nick8\\Desktop\\C#\\boxing_unboxing\\boxing_unboxing.csproj": {
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\boxing_unboxing\\boxing_unboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\boxing_unboxing\\boxing_unboxing.csproj",
+        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\boxing_unboxing\\boxing_unboxing.csproj",
         "projectName": "boxing_unboxing",
-        "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\boxing_unboxing\\boxing_unboxing.csproj",
+        "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\boxing_unboxing\\boxing_unboxing.csproj",
         "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\boxing_unboxing\\obj\\",
+        "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\boxing_unboxing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
